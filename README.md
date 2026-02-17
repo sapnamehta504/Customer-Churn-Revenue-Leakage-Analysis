@@ -33,7 +33,7 @@ This project focuses on analyzing customer churn behavior and identifying revenu
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](churn_dashboard.png)
+![Dashboard Overview](Churn_Dashboard.png)
 
 
 ---
